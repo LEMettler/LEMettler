@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&color=fc521e&text=Lukas%20Mettler&reversal=false&textBg=false&desc=Physics,%20Code%20and%20Photography&fontAlign=20&fontAlignY=25&fontColor=0b272e&fontSize=40&descSize=19&descAlign=37&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=fc521e&text=Lukas%20Mettler&reversal=false&textBg=false&desc=Physics,%20Code%20and%20Photography&fontAlign=17&fontAlignY=17&fontColor=0b272e&fontSize=40&descSize=19&descAlign=39&descAlignY=35)
 
 <table border="0">
  <tr>
