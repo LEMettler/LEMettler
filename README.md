@@ -1,4 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=180&color=fc521e&text=Lukas%20Mettler&reversal=false&textBg=false&desc=Physics,%20Code%20and%20Photography&fontAlign=17&fontAlignY=17&fontColor=0b272e&fontSize=40&descSize=19&descAlign=39&descAlignY=35)
+<!--Header by https://capsule-render.vercel.app -->
+
+![header](./header.svg)
 
 <table border="0">
  <tr>
@@ -34,12 +36,16 @@ My interests include
  </tr>
 </table>
 
+
+
 ## [Click here for some of my photography](https://github.com/LEMettler/photography-portfolio)
 <p>
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6410.jpg" width="20%"/>
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/misc/_MG_6057.jpg" width="20%"/>
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6620.jpg" width="18%"/>
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_5621.jpg" width="18%"/>
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6322.jpg" width="18%"/>
+ <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6410.jpg" width="18%"/>
+ <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/misc/_MG_6057.jpg" width="18%"/>
+ <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6620.jpg" width="16%"/>
+ <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_5621.jpg" width="16%"/>
+ <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6322.jpg" width="16%"/>
 </p>
 
+<!--Footer by https://capsule-render.vercel.app -->
+![footer](./footer.svg)
