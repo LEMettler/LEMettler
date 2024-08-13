@@ -1,6 +1,6 @@
 <!--Header by https://capsule-render.vercel.app -->
 
-![header](./header.svg)
+![header](./src/header.svg)
 
 <table border="0">
  <tr>
@@ -8,7 +8,7 @@
 Hi, welcome to my profile!
 <br>
       
-I'm Lukas, Physics M.Sc. student at Karlsruhe Institute of Technology, KIT.
+I'm Lukas Mettler, a Physics M.Sc. student at Karlsruhe Institute of Technology, KIT.
 <br>
 
 My interests include
@@ -16,11 +16,14 @@ My interests include
 - Data analysis, statistics and Monte Carlo simulation
     </td>
     <td>
-        <img src="./language_stats.svg" alt="language-stats">
+        <img src="./src/language_stats.svg" alt="language-stats">
     </td>
  </tr>
 </table>
 
+
+
+<!-- badges -->
 <table border="0">
  <tr>
      <td>
@@ -39,6 +42,7 @@ My interests include
 
 
 ## [Click here for some of my photography](https://github.com/LEMettler/photography-portfolio)
+<!-- images with relative width -->
 <p>
  <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6410.jpg" width="18%"/>
  <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/misc/_MG_6057.jpg" width="18%"/>
@@ -47,5 +51,69 @@ My interests include
  <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6322.jpg" width="16%"/>
 </p>
 
+
+<!-- repositories -->
+## Repositories
+
+
+### Physics
+
+- [**Lumière**](https://github.com/LEMettler/lumiere)<br>
+My python wrapper of misc. scipy, numpy and matplotlib operations to streamline scientific data handling, fitting and  mathematically correct errorbands in personal everyday use.
+
+- [**QFT-calculations**](https://github.com/LEMettler/QFT-calculations)<br>
+Miscellaneous Quantum Field Theory calculations and notes.
+
+- [**particleQT**](https://github.com/LEMettler/particleQT)<br>
+A GUI application to check whether particle interactions of leptons, bosons and many hadrons satisfy the conservation of quantum numbers. 
+
+
+
+
+### Machine Learning 
+- [**Numpy DNN**](https://github.com/LEMettler/MNIST_in_numpy)<br>
+A Neural network build from scratch, relying on frameworks like TensorFlow. All matrix calculations, including backpropagation steps, are explained to  gain a deep understanding of the underlying processes.
+
+- [**Higgs Challenge**](https://github.com/LEMettler/higgs-challenge)<br>
+My take on the Kaggle Higgs Boson Machine Learning Challenge with a DNN setup for a 2.6 AMS score aswell as a custom Gaussian Mixture Classifier approach.
+
+- [**NLP lyrics generator**](https://github.com/LEMettler/NLP_lyrics_generator/blob/main/eurobeatNLP.ipynb)<br>
+Tests of implementing a LSTM on song lyrics using the Pytorch library. Ultimately limited by the my laptops computing power.
+
+
+### C++
+
+- [**Sudoke Solver**](https://github.com/LEMettler/sudoku_solver)<br>
+A 9x9-Sudoku solving algorithm, that, unlike other implemtations, works in an  iterative manner.
+Implementations in python and C++.
+
+
+
+### $\LaTeX$
+
+- [**LaTeX template**](https://github.com/LEMettler/latex-template)<br>
+My go-to $\LaTeX$ template. Pretty frontpage and useful commands included.
+
+- [**LaTeX table generator**](https://github.com/LEMettler/latex_table_generation)<br>
+A simple python module to convert your data arrays/lists to code for a $\LaTeX$ table.
+
+
+
+### Android applications (Java and Kotlin)
+
+- [**Sleep Timer**](https://github.com/LEMettler/SleepTimer)<br>
+A timer that stops applications from playing music.
+
+- [**Circle Builder**](https://github.com/LEMettler/CircleBuilder)<br>
+A game to define obstacles and find paths around them to connect all free spaces.
+
+- [**Action Counter**](https://github.com/LEMettler/ActionCounter)<br>
+A simplistic interface for counting with plus/minus buttons.
+
+- [**Entity Task**](https://github.com/LEMettler/EntityTask)<br>
+A school project of an Android task manager. Users are rewarded for completing tasks with a XP system. 
+
+
+
 <!--Footer by https://capsule-render.vercel.app -->
-![footer](./footer.svg)
+![footer](./src/footer.svg)
