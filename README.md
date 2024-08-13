@@ -1,6 +1,8 @@
 <!--Header by https://capsule-render.vercel.app -->
+<div align="center">
+    <img src="./src/header.svg" alt="header">
+</div>
 
-![header](./src/header.svg)
 
 <table border="0">
  <tr>
@@ -23,8 +25,12 @@ My interests include
 
 
 
+<!-- horizonal line -->
+$${\color{#fc521e}\rule{854px}{1px}}$$	
+
+
 <!-- badges -->
-<table border="0">
+<table border="0" align="center">
  <tr>
      <td>
 <img src="https://img.shields.io/badge/Wolfram-DD1100?&style=for-the-badge&logo=Wolfram&logoColor=white" alt="wolfram">
@@ -41,9 +47,17 @@ My interests include
 
 
 
-## [Click here for some of my photography](https://github.com/LEMettler/photography-portfolio)
+<!-- horizonal line -->
+$${\color{#fc521e}\rule{854px}{1px}}$$	
+
+<div align="center">
+
+### [Click here for some of my photography](https://github.com/LEMettler/photography-portfolio)
+
+</div>
+
 <!-- images with relative width -->
-<p>
+<p align="center">
  <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6410.jpg" width="18%"/>
  <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/misc/_MG_6057.jpg" width="18%"/>
  <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6620.jpg" width="16%"/>
@@ -52,11 +66,20 @@ My interests include
 </p>
 
 
+<!-- horizonal line -->
+$${\color{#fc521e}\rule{854px}{1px}}$$	
+
 <!-- repositories -->
-## Repositories
+
+<div align="center">
+
+### Repositories
+
+</div>
 
 
-### Physics
+
+#### Physics
 
 - [**Lumière**](https://github.com/LEMettler/lumiere)<br>
 My python wrapper of misc. scipy, numpy and matplotlib operations to streamline scientific data handling, fitting and  mathematically correct errorbands in personal everyday use.
@@ -70,7 +93,7 @@ A GUI application to check whether particle interactions of leptons, bosons and 
 
 
 
-### Machine Learning 
+#### Machine Learning 
 - [**Numpy DNN**](https://github.com/LEMettler/MNIST_in_numpy)<br>
 A Neural network build from scratch, relying on frameworks like TensorFlow. All matrix calculations, including backpropagation steps, are explained to  gain a deep understanding of the underlying processes.
 
@@ -81,7 +104,7 @@ My take on the Kaggle Higgs Boson Machine Learning Challenge with a DNN setup fo
 Tests of implementing a LSTM on song lyrics using the Pytorch library. Ultimately limited by the my laptops computing power.
 
 
-### C++
+#### C++
 
 - [**Sudoke Solver**](https://github.com/LEMettler/sudoku_solver)<br>
 A 9x9-Sudoku solving algorithm, that, unlike other implemtations, works in an  iterative manner.
@@ -89,7 +112,7 @@ Implementations in python and C++.
 
 
 
-### $\LaTeX$
+#### $\LaTeX$
 
 - [**LaTeX template**](https://github.com/LEMettler/latex-template)<br>
 My go-to $\LaTeX$ template. Pretty frontpage and useful commands included.
@@ -99,7 +122,7 @@ A simple python module to convert your data arrays/lists to code for a $\LaTeX$ 
 
 
 
-### Android applications (Java and Kotlin)
+#### Android applications (Java and Kotlin)
 
 - [**Sleep Timer**](https://github.com/LEMettler/SleepTimer)<br>
 A timer that stops applications from playing music.
@@ -116,4 +139,7 @@ A school project of an Android task manager. Users are rewarded for completing t
 
 
 <!--Footer by https://capsule-render.vercel.app -->
-![footer](./src/footer.svg)
+<div align="center">
+    <img src="./src/footer.svg" alt="footer">
+</div>
+
