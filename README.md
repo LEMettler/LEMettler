@@ -1,6 +1,6 @@
 <!--Header by https://capsule-render.vercel.app -->
-<div align="center">
-    <img src="./src/header.svg" alt="header">
+<div align="center" style="width: 100%;">
+    <img src="./src/header.svg" alt="footer" style="width: 100%;">
 </div>
 
 
@@ -26,7 +26,10 @@ My interests include
 
 
 <!-- horizonal line -->
-$${\color{#fc521e}\rule{854px}{1px}}$$	
+<div align="center" style="width: 100%;">
+    <img src="./src/line.svg" style="width: 90%;">
+</div>
+
 
 
 <!-- badges -->
@@ -48,7 +51,11 @@ $${\color{#fc521e}\rule{854px}{1px}}$$
 
 
 <!-- horizonal line -->
-$${\color{#fc521e}\rule{854px}{1px}}$$	
+<div align="center" style="width: 100%;">
+    <img src="./src/line.svg" style="width: 90%;">
+</div>
+
+
 
 <div align="center">
 
@@ -67,7 +74,9 @@ $${\color{#fc521e}\rule{854px}{1px}}$$
 
 
 <!-- horizonal line -->
-$${\color{#fc521e}\rule{854px}{1px}}$$	
+<div align="center" style="width: 100%;">
+    <img src="./src/line.svg" style="width: 90%;">
+</div>
 
 <!-- repositories -->
 
@@ -138,8 +147,9 @@ A school project of an Android task manager. Users are rewarded for completing t
 
 
 
-<!--Footer by https://capsule-render.vercel.app -->
-<div align="center">
-    <img src="./src/footer.svg" alt="footer">
+
+
+<div align="center" style="width: 100%;">
+    <img src="./src/footer.svg" alt="footer" style="width: 100%;">
 </div>
 
