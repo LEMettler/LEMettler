@@ -32,6 +32,29 @@ My interests include
 
 
 
+<div align="center">
+
+### [Click here for some of my photography](https://github.com/LEMettler/photography-portfolio)
+
+</div>
+
+<!-- images with relative width -->
+<p align="center">
+ <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6410.jpg" width="18%"/>
+ <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/misc/_MG_6057.jpg" width="18%"/>
+ <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6620.jpg" width="16%"/>
+ <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_5621.jpg" width="16%"/>
+ <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6322.jpg" width="16%"/>
+</p>
+
+
+<!-- horizonal line -->
+<div align="center" style="width: 100%;">
+    <img src="./src/line.svg" style="width: 90%;">
+</div>
+
+
+
 <!-- badges -->
 <table border="0" align="center">
  <tr>
@@ -57,26 +80,6 @@ My interests include
 
 
 
-<div align="center">
-
-### [Click here for some of my photography](https://github.com/LEMettler/photography-portfolio)
-
-</div>
-
-<!-- images with relative width -->
-<p align="center">
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6410.jpg" width="18%"/>
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/misc/_MG_6057.jpg" width="18%"/>
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6620.jpg" width="16%"/>
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_5621.jpg" width="16%"/>
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6322.jpg" width="16%"/>
-</p>
-
-
-<!-- horizonal line -->
-<div align="center" style="width: 100%;">
-    <img src="./src/line.svg" style="width: 90%;">
-</div>
 
 <!-- repositories -->
 
@@ -90,8 +93,8 @@ My interests include
 
 #### Physics
 
-- [**Lumière**](https://github.com/LEMettler/lumiere)<br>
-My python wrapper of misc. scipy, numpy and matplotlib operations to streamline scientific data handling, fitting and  mathematically correct errorbands in personal everyday use.
+- [**lumiere**](https://github.com/LEMettler/lumiere)<br>
+My python wrapper of scipy, numpy and matplotlib operations to streamline scientific data handling, fitting and  mathematically correct errorbands in personal everyday use.
 
 - [**QFT-calculations**](https://github.com/LEMettler/QFT-calculations)<br>
 Miscellaneous Quantum Field Theory calculations and notes.
@@ -104,10 +107,10 @@ A GUI application to check whether particle interactions of leptons, bosons and 
 
 #### Machine Learning 
 - [**Numpy DNN**](https://github.com/LEMettler/MNIST_in_numpy)<br>
-A Neural network build from scratch, relying on frameworks like TensorFlow. All matrix calculations, including backpropagation steps, are explained to  gain a deep understanding of the underlying processes.
+A neural network build from scratch, not relying on frameworks like TensorFlow. All matrix calculations, including backpropagation steps, are explained to gain a deep understanding of the underlying processes.
 
 - [**Higgs Challenge**](https://github.com/LEMettler/higgs-challenge)<br>
-My take on the Kaggle Higgs Boson Machine Learning Challenge with a DNN setup for a 2.6 AMS score aswell as a custom Gaussian Mixture Classifier approach.
+My take on the Kaggle Higgs-Boson Machine Learning Challenge with a DNN setup for a 2.6 AMS score aswell as a custom Gaussian Mixture Classifier approach.
 
 - [**NLP lyrics generator**](https://github.com/LEMettler/NLP_lyrics_generator/blob/main/eurobeatNLP.ipynb)<br>
 Tests of implementing a LSTM on song lyrics using the Pytorch library. Ultimately limited by the my laptops computing power.
@@ -116,7 +119,7 @@ Tests of implementing a LSTM on song lyrics using the Pytorch library. Ultimatel
 #### C++
 
 - [**Sudoke Solver**](https://github.com/LEMettler/sudoku_solver)<br>
-A 9x9-Sudoku solving algorithm, that, unlike other implemtations, works in an  iterative manner.
+A 9x9-Sudoku solving algorithm that, unlike other implemtations, works in an iterative manner.
 Implementations in python and C++.
 
 
