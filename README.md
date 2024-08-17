@@ -91,7 +91,7 @@ My interests include
 
 
 
-#### Physics
+#### Physics and simulations
 
 - [**lumiere**](https://github.com/LEMettler/lumiere)<br>
 My python wrapper of scipy, numpy and matplotlib operations to streamline scientific data handling, fitting and  mathematically correct errorbands in personal everyday use.
@@ -100,7 +100,11 @@ My python wrapper of scipy, numpy and matplotlib operations to streamline scient
 Miscellaneous Quantum Field Theory calculations and notes.
 
 - [**particleQT**](https://github.com/LEMettler/particleQT)<br>
-A GUI application to check whether particle interactions of leptons, bosons and many hadrons satisfy the conservation of quantum numbers. 
+A GUI application to check whether particle interactions of leptons, bosons and many hadrons satisfy the conservation of quantum numbers.
+
+- [**Forest Fire Model**](https://github.com/LEMettler/forest-fire-model)<br>
+ Animated python simulation of a cellular grid to simulate the spread of forest fires.
+
 
 
 
