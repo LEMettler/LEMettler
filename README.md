@@ -105,6 +105,8 @@ A GUI application to check whether particle interactions of leptons, bosons and 
 - [**Forest Fire Model**](https://github.com/LEMettler/forest-fire-model)<br>
  Animated python simulation of a cellular grid to simulate the spread of forest fires.
 
+- [**Stick-Slip Friction Model**](https://github.com/LEMettler/stick-slip-model)<br>
+Simulation of the friction behaviour of two objects moving over one another.
 
 
 
