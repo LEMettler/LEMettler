@@ -34,17 +34,17 @@ My interests include
 
 <div align="center">
 
-### [Click here for some of my photography](https://github.com/LEMettler/photography-portfolio)
+### [Click here for some of my photography](https://github.com/LEMettler/photography)
 
 </div>
 
 <!-- images with relative width -->
 <p align="center">
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6410.jpg" width="18%"/>
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/misc/_MG_6057.jpg" width="18%"/>
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6620.jpg" width="16%"/>
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_5621.jpg" width="16%"/>
- <img src="https://github.com/LEMettler/photography-portfolio/blob/main/src/redsblues/_MG_6322.jpg" width="16%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/bw/_MG_7000.jpg" width="16%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/redsblues/_MG_6620.jpg" width="16%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/misc/_MG_6057.jpg" width="18%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/redsblues/_MG_5621.jpg" width="16%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/misc/_MG_6948.jpg" width="16%"/>
 </p>
 
 
@@ -124,7 +124,7 @@ Tests of implementing a LSTM on song lyrics using the Pytorch library. Ultimatel
 
 #### C++
 
-- [**Sudoke Solver**](https://github.com/LEMettler/sudoku_solver)<br>
+- [**Sudoku Solver**](https://github.com/LEMettler/sudoku_solver)<br>
 A 9x9-Sudoku solving algorithm that, unlike other implemtations, works in an iterative manner.
 Implementations in python and C++.
 
