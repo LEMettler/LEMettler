@@ -3,10 +3,17 @@
     <img src="./src/name-header.svg" alt="header" style="width: 100%;">
 </div>
 
-
+<div align="center">
 I'm Lukas Mettler, a Physics M.Sc. student at Karlsruhe Institute of Technology, KIT.
+</div>
+
+
+
+
+
 My interests include
-- Dark Matter, particle and astroparticle physics
+
+- Dark Matter, cosmology, particle and astroparticle physics
 - Data analysis, statistics and Monte Carlo simulation
 
 
@@ -135,9 +142,8 @@ A simple python module to convert your data arrays/lists to code for a $\LaTeX$ 
 
 <details>
 <summary>
-
+    
 #### Android applications (Java and Kotlin)
-
 </summary>
 
 - [**Sleep Timer**](https://github.com/LEMettler/SleepTimer)<br>
