@@ -40,7 +40,7 @@
   </clipPath>
 
     <animate 
-    xlink:href="#clipRect1"
+    href="#clipRect1"
     attributeName="width"
     from="0"
     to="400"
@@ -50,7 +50,7 @@
 
 
     <animate 
-    xlink:href="#clipRect2"
+    href="#clipRect2"
     attributeName="width"
     from="0"
     to="400"
