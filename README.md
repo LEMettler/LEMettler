@@ -57,11 +57,24 @@ My interests include
 </div>
 
 
+I'm currently working on learning about svg-animations, see my current header or [SVG-Collisions](https://github.com/LEMettler/svg-collision), a small CLI program I'm working on
+to build animations of particle collisions.
+
+
+<div align="center" width="40%">
+
+![particle-collision](https://github.com/LEMettler/svg-collision/blob/main/animations/offset.svg)
+
+</div>
+
+
+
+
+
 
 
 <details>
 <summary>
-
 
 #### Physics and simulations
 
