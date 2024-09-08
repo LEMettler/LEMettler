@@ -1,4 +1,20 @@
-<svg style="z-index:1;position:relative" width="854" height="2px" xmlns="http://www.w3.org/2000/svg">
-  <line x1="0" y1="0.5" x2="100%" y2="0.5" stroke="#fc521e" stroke-width="1.4" />
+<svg style="z-index:1;position:relative" width="800" height="4" xmlns="http://www.w3.org/2000/svg">
+
+  <defs>
+    <linearGradient id="gradient-fill" x1="0" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#5b1616" />
+      <stop offset="1" stop-color="#ff9913" />
+      <animateTransform
+        attributeName="gradientTransform"
+        type="rotate"
+        from="0 400 175"
+        to="360 400 175"
+        dur="10s"
+        repeatCount="indefinite"
+      />
+    </linearGradient>
+  </defs>
+  
+  <line x1="0" y1="0.5" x2="100%" y2="0.5" stroke="url(#gradient-fill)" stroke-width="4" />
 </svg>
 
