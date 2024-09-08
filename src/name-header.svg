@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="400" viewBox="0 0 800 400">
 
 <path d="M0,0 L800,0 L800,400 L0,400 Z"
-  stroke="#da5b09" stroke-width="0" fill="#a6480f"> 
+  stroke="#0dd9a6" stroke-width="0" fill="#0dd9a6"> 
 
 </path>
 
@@ -14,7 +14,7 @@
 
 
 <path d="M300,100.0 L800.000,144.554 L0.000,215.842 L720.000,280.000"
-  stroke="#da5b09" stroke-width="3.5" fill="none"
+  stroke="#ffffff" stroke-width="3.5" fill="none"
   stroke-dasharray="2028.003944769339" stroke-dashoffset="2028.003944769339">
   
 <animate 
@@ -42,7 +42,7 @@
 
 
 <path d="M300.0,100.0 L0.000,206.780 L542.857,400.000 L800.000,308.475 L720.000,280.000"
-  stroke="#da5b09" stroke-width="3.5" fill="none"
+  stroke="#ffffff" stroke-width="3.5" fill="none"
   stroke-dasharray="1252.5174649480941" stroke-dashoffset="1252.5174649480941">
   
 <animate 
@@ -1750,7 +1750,7 @@
 
 
 <path d="M720.0,280.0 L800.000,209.890 L560.503,0.000 L104.079,400.000 L0.000,308.787 L352.345,0.000 L390.000,33.000"
-  stroke="#da5b09" stroke-width="3.5" fill="none"
+  stroke="#ffffff" stroke-width="3.5" fill="none"
   stroke-dasharray="1688.6885444036152" stroke-dashoffset="1688.6885444036152">
   
 <animate 
@@ -1778,7 +1778,7 @@
 
 
 <path d="M720,280.0 L0.000,392.622 L800.000,290.238 L0.000,187.855 L800.000,85.472 L390.000,33.000"
-  stroke="#da5b09" stroke-width="3.5" fill="none"
+  stroke="#ffffff" stroke-width="3.5" fill="none"
   stroke-dasharray="3561.6734734875295" stroke-dashoffset="3561.6734734875295">
   
 <animate 
@@ -3486,7 +3486,7 @@
 
 
 <path d="M390.0,33.0 L99.751,400.000 L0.000,325.251 L434.038,0.000 L781.000,260.000"
-  stroke="#da5b09" stroke-width="3.5" fill="none"
+  stroke="#ffffff" stroke-width="3.5" fill="none"
   stroke-dasharray="1568.5041485772838" stroke-dashoffset="1568.5041485772838">
   
 <animate 
@@ -3514,7 +3514,7 @@
 
 
 <path d="M390.0,33.0 L800.000,137.405 L0.000,341.122 L231.217,400.000 L781.000,260.000"
-  stroke="#da5b09" stroke-width="3.5" fill="none"
+  stroke="#ffffff" stroke-width="3.5" fill="none"
   stroke-dasharray="2054.5388777046783" stroke-dashoffset="2054.5388777046783">
   
 <animate 
@@ -5222,7 +5222,7 @@
 
 
 <path d="M781.0,260.0 L800.000,245.829 L470.395,0.000 L0.000,350.834 L65.921,400.000 L200.000,300.000"
-  stroke="#da5b09" stroke-width="3.5" fill="none"
+  stroke="#ffffff" stroke-width="3.5" fill="none"
   stroke-dasharray="1271.2045468767014" stroke-dashoffset="1271.2045468767014">
   
 <animate 
@@ -5250,7 +5250,7 @@
 
 
 <path d="M781.0,260.0 L617.500,0.000 L365.962,400.000 L114.423,0.000 L0.000,181.957 L137.115,400.000 L200.000,300.000"
-  stroke="#da5b09" stroke-width="3.5" fill="none"
+  stroke="#ffffff" stroke-width="3.5" fill="none"
   stroke-dasharray="1842.813338349818" stroke-dashoffset="1842.813338349818">
   
 <animate 
@@ -6958,7 +6958,7 @@
 
 
 <path d="M200.0,300.0 L0.000,246.667 L800.000,33.333 L675.000,0.000 L300.000,100.000"
-  stroke="#da5b09" stroke-width="3.5" fill="none"
+  stroke="#ffffff" stroke-width="3.5" fill="none"
   stroke-dasharray="1552.4174696260025" stroke-dashoffset="1552.4174696260025">
   
 <animate 
@@ -6986,7 +6986,7 @@
 
 
 <path d="M200.0,300.0 L383.333,400.000 L800.000,172.727 L483.333,0.000 L300.000,100.000"
-  stroke="#da5b09" stroke-width="3.5" fill="none"
+  stroke="#ffffff" stroke-width="3.5" fill="none"
   stroke-dasharray="1252.996408614167" stroke-dashoffset="1252.996408614167">
   
 <animate 
@@ -8740,18 +8740,6 @@
 
 
 
-<path d="M150,130 L150,240 L650,240 L650,130 Z"
-  stroke="#222222" stroke-width="0.5" fill="#201f1f" opacity="0"  > 
-
- <animate id="secondary3_opacity" 
- attributeName="opacity" 
- from="0" 
- to="0.7" 
- begin="2s" 
-  dur="0.5s" 
- fill="freeze" /> 
-
-</path>
 
 
 <text 
@@ -8759,7 +8747,7 @@
     alignment-baseline="middle"
     x="350" y="170" 
     class="title" 
-    fill="#ececec"
+    fill="#0dd9a6"
     clip-path="url(#textClip1)"
     >
       Lukas Mettler
@@ -8771,7 +8759,7 @@
     alignment-baseline="middle"
     x="450" y="220" 
     class="sup" 
-    fill="#ffffff"
+    fill="#0dd9a6"
     clip-path="url(#textClip2)"
     >
       Welcome to my profile 👋
