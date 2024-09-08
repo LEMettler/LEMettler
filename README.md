@@ -3,12 +3,11 @@
     <img src="./src/name-header.svg" alt="header" style="width: 100%;">
 </div>
 
-<div align="center">
+
+
+<br>
 I'm Lukas Mettler, a Physics M.Sc. student at Karlsruhe Institute of Technology, KIT.
-</div>
-
-
-
+<br>
 
 
 My interests include
@@ -19,7 +18,7 @@ My interests include
 
 <!-- horizonal line -->
 <div align="center" style="width: 100%;">
-    <img src="./src/line.svg" style="width: 90%;">
+    <img src="./src/line.svg" style="width: 98%;">
 </div>
 
 
@@ -42,7 +41,7 @@ My interests include
 
 <!-- horizonal line -->
 <div align="center" style="width: 100%;">
-    <img src="./src/line.svg" style="width: 90%;">
+    <img src="./src/line.svg" style="width: 98%;">
 </div>
 
 
