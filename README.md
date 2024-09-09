@@ -24,20 +24,26 @@ My interests include
 
 <div align="center">
 
-### [Click here for some of my photography](https://github.com/LEMettler/photography)
+### Photography
 
 </div>
 
+Click here for my [portfolio](https://github.com/LEMettler/photography).
+
+
+<a href="https://github.com/LEMettler/photography">
+
 <!-- images with relative width -->
 <p align="center">
- <img src="https://github.com/LEMettler/photography/blob/main/src/bw/_MG_7000.jpg" width="16%"/>
- <img src="https://github.com/LEMettler/photography/blob/main/src/redsblues/_MG_6620.jpg" width="16%"/>
- <img src="https://github.com/LEMettler/photography/blob/main/src/misc/_MG_6057.jpg" width="18%"/>
- <img src="https://github.com/LEMettler/photography/blob/main/src/redsblues/_MG_5621.jpg" width="16%"/>
- <img src="https://github.com/LEMettler/photography/blob/main/src/misc/_MG_6948.jpg" width="16%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/bw/_MG_7000.jpg" width="19%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/redsblues/_MG_6620.jpg" width="19%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/misc/_MG_6057.jpg" width="19%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/redsblues/_MG_5621.jpg" width="19%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/misc/_MG_6948.jpg" width="19%"/>
 </p>
 
 
+</a>
 
 <!-- horizonal line -->
 <div align="center" style="width: 100%;">
