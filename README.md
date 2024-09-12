@@ -1,6 +1,9 @@
 <!--Header by https://capsule-render.vercel.app -->
 <div align="center" style="width: 100%;">
-    <img src="./src/name-header.svg" alt="header" style="width: 100%;">
+    
+![dm-header](./src/dm/grad_bg_dm.svg#gh-dark-mode-only)
+![dm-header](./src/lm/grad_bg_lm.svg#gh-light-mode-only)
+
 </div>
 
 
@@ -17,16 +20,16 @@ My interests include
 
 
 <!-- horizonal line -->
+
 <div align="center" style="width: 100%;">
-    <img src="./src/line.svg" style="width: 98%;">
-</div>
-
-
-<div align="center">
-
-### Photography
+    
+![dm-photography](./src/dm/photography_dm.svg#gh-dark-mode-only)
+![dm-photography](./src/lm/photography_lm.svg#gh-light-mode-only)
 
 </div>
+
+
+
 
 Click here for my [portfolio](https://github.com/LEMettler/photography).
 
@@ -46,20 +49,16 @@ Click here for my [portfolio](https://github.com/LEMettler/photography).
 </a>
 
 <!-- horizonal line -->
+
+
 <div align="center" style="width: 100%;">
-    <img src="./src/line.svg" style="width: 98%;">
-</div>
-
-
-
-
-<!-- repositories -->
-
-<div align="center">
-
-### Code and Physics
+    
+![dm-code](./src/dm/code_and_physics_dm.svg#gh-dark-mode-only)
+![dm-code](./src/lm/code_and_physics_lm.svg#gh-light-mode-only)
 
 </div>
+
+
 
 
 I'm currently working on learning about svg-animations, see my current header or [SVG-Collisions](https://github.com/LEMettler/svg-collision), a small CLI program I'm working on
