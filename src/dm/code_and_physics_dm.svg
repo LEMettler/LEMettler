@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg"
     xmlns:xlink="http://www.w3.org/1999/xlink"
-    width="400" height="30"
-    viewBox="0 0 400 30">
+    width="800" height="30"
+    viewBox="0 0 800 30">
 
 
   <defs>
@@ -12,11 +12,11 @@
       <animateTransform
         attributeName="gradientTransform"
         type="translate"
-        values="-300   0;
+        values="-850   0;
                 0       0;
-                300   0"
+                850   0"
         dur="5s"
-        begin="0s"
+        begin="2.5s"
         repeatCount="indefinite"
         keyTimes="0; 0.5; 1"
       />
