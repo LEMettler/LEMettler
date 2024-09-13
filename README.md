@@ -1,32 +1,46 @@
 <!--Header by https://capsule-render.vercel.app -->
 <div align="center" style="width: 100%;">
-    <img src="./src/name-header.svg" alt="header" style="width: 100%;">
+    
+![dm-header](./src/dm/grad_bg_dm.svg#gh-dark-mode-only)
+![dm-header](./src/lm/grad_bg_lm.svg#gh-light-mode-only)
+
 </div>
-
-
-
-<br>
-I'm Lukas Mettler, a Physics M.Sc. student at Karlsruhe Institute of Technology, KIT.
-<br>
-
-
-My interests include
-
-- Dark Matter, cosmology, particle and astroparticle physics
-- Data analysis, statistics and Monte Carlo simulation
-
-
-<!-- horizonal line -->
-<div align="center" style="width: 100%;">
-    <img src="./src/line.svg" style="width: 98%;">
-</div>
-
 
 <div align="center">
 
-### Photography
+
+<br>
+<br>
+<p style="margin-bottom:3cm;">
+    I'm Lukas Mettler, a Physics M.Sc. student at Karlsruhe Institute of Technology, KIT.
+</p>
+
+<p style="margin-bottom:3cm;">
+    My interests include <br>
+    Dark Matter, cosmology, particle and astroparticle physics, data analysis, statistics and Monte Carlo simulation.
+</p>
+
+
+
+
+<br>
+Besides that, I enjoy all things photography and also recently took an interest in Generative Art.
+
 
 </div>
+
+<!-- horizonal line -->
+
+<br>
+<div align="center" style="width: 100%;">
+    
+![dm-photography](./src/dm/photography_dm.svg#gh-dark-mode-only)
+![dm-photography](./src/lm/photography_lm.svg#gh-light-mode-only)
+
+</div>
+
+
+
 
 Click here for my [portfolio](https://github.com/LEMettler/photography).
 
@@ -46,27 +60,26 @@ Click here for my [portfolio](https://github.com/LEMettler/photography).
 </a>
 
 <!-- horizonal line -->
+
+<br>
 <div align="center" style="width: 100%;">
-    <img src="./src/line.svg" style="width: 98%;">
+    
+![dm-code](./src/dm/code_and_physics_dm.svg#gh-dark-mode-only)
+![dm-code](./src/lm/code_and_physics_lm.svg#gh-light-mode-only)
+
 </div>
-
-
-
-
-<!-- repositories -->
 
 <div align="center">
-
-### Code and Physics
-
-</div>
-
 
 I'm currently working on learning about svg-animations, see my current header or [SVG-Collisions](https://github.com/LEMettler/svg-collision), a small CLI program I'm working on
 to build animations of particle collisions.
 
+</div>
 
 
+
+<div style="width: 50%;">
+    
 
 <details>
 <summary>
@@ -170,6 +183,7 @@ A school project of an Android task manager. Users are rewarded for completing t
 </details>
 
 
+</div>
 
 
 <!-- horizonal line -->
