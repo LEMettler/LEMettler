@@ -6,21 +6,32 @@
 
 </div>
 
+<div align="center">
 
 
 <br>
-I'm Lukas Mettler, a Physics M.Sc. student at Karlsruhe Institute of Technology, KIT.
 <br>
+<p style="margin-bottom:3cm;">
+    I'm Lukas Mettler, a Physics M.Sc. student at Karlsruhe Institute of Technology, KIT.
+</p>
+
+<p style="margin-bottom:3cm;">
+    My interests include <br>
+    Dark Matter, cosmology, particle and astroparticle physics, data analysis, statistics and Monte Carlo simulation.
+</p>
 
 
-My interests include
 
-- Dark Matter, cosmology, particle and astroparticle physics
-- Data analysis, statistics and Monte Carlo simulation
 
+<br>
+Besides that, I enjoy all things photography and also recently took an interest in Generative Art.
+
+
+</div>
 
 <!-- horizonal line -->
 
+<br>
 <div align="center" style="width: 100%;">
     
 ![dm-photography](./src/dm/photography_dm.svg#gh-dark-mode-only)
@@ -50,7 +61,7 @@ Click here for my [portfolio](https://github.com/LEMettler/photography).
 
 <!-- horizonal line -->
 
-
+<br>
 <div align="center" style="width: 100%;">
     
 ![dm-code](./src/dm/code_and_physics_dm.svg#gh-dark-mode-only)
@@ -58,14 +69,17 @@ Click here for my [portfolio](https://github.com/LEMettler/photography).
 
 </div>
 
-
-
+<div align="center">
 
 I'm currently working on learning about svg-animations, see my current header or [SVG-Collisions](https://github.com/LEMettler/svg-collision), a small CLI program I'm working on
 to build animations of particle collisions.
 
+</div>
 
 
+
+<div style="width: 50%;">
+    
 
 <details>
 <summary>
@@ -169,6 +183,7 @@ A school project of an Android task manager. Users are rewarded for completing t
 </details>
 
 
+</div>
 
 
 <!-- horizonal line -->
