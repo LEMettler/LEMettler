@@ -69,16 +69,53 @@ Click here for my [portfolio](https://github.com/LEMettler/photography).
 
 </div>
 
-<div align="center">
 
-I'm currently working on learning about svg-animations, see my current header or [SVG-Collisions](https://github.com/LEMettler/svg-collision), a small CLI program I'm working on
-to build animations of particle collisions.
+<a href="https://github.com/LEMettler/strange-attractors">
 
-</div>
+<!-- images with relative width -->
+<p align="center">
+ <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/20-color.png" width="24%"/>
+ <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/72-bw.png" width="48%"/>
+ <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/37-color.png" width="24%"/>
+</p>
+
+
+</a>
 
 
 
 <div style="width: 50%;">
+
+
+
+<details>
+<summary>
+
+#### Computer Art
+
+</summary>
+
+
+- [**SVG-Collisions**](https://github.com/LEMettler/svg-collision)<br>
+  A python CLI program to generate animations of particle collisions, among others, like the one in my header that loops back into itself.
+  
+- [**Strange Attractors**](https://github.com/LEMettler/strange-attractors)<br>
+    Random strange attractors from 2 dimensional system of equations. Visualization is handeled with Python and processing while the datapoints are calculated in C++.
+    Users may vary the system of equation, all these examples are calculated with:   
+
+$$
+x_{n+1} = a_0 + a_1\cdot x_n + a_2 \cdot x_n^2 + a_3\cdot x_n y_n + a_4\cdot  y_n + a_5\cdot y_n^2 
+$$
+
+$$
+y_{n+1} = b_0 + b_1\cdot  x_n + b_2 \cdot x_n^2 + b_3 \cdot x_n y_n + b_4 \cdot y_n + b_5 \cdot y_n^2 
+$$
+
+
+
+</details>
+
+
     
 
 <details>
