@@ -142,6 +142,9 @@ A GUI application to check whether particle interactions of leptons, bosons and 
 - [**Stick-Slip Friction Model**](https://github.com/LEMettler/stick-slip-model)<br>
 Simulation of the friction behaviour of two objects moving over one another.
 
+- [**Deser Dune CA**](https://github.com/LEMettler/sand-dunes)<br>
+Cellular Automate of sand dunes based on Werner Model (1995) and following publications with 2D and 3D visualization.
+
 </details>
 
 
