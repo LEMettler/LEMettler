@@ -111,6 +111,9 @@ $$
 y_{n+1} = b_0 + b_1\cdot  x_n + b_2 \cdot x_n^2 + b_3 \cdot x_n y_n + b_4 \cdot y_n + b_5 \cdot y_n^2 
 $$
 
+- [**Dotted Desert Dunes**](https://gist.github.com/LEMettler/3f976f8d30c0aaafde074d8004e31cc6)<br>
+    Generative Dunes from a bird-eye view. 
+
 
 
 </details>
