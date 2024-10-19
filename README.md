@@ -112,8 +112,10 @@ y_{n+1} = b_0 + b_1\cdot  x_n + b_2 \cdot x_n^2 + b_3 \cdot x_n y_n + b_4 \cdot 
 $$
 
 - [**Dotted Desert Dunes**](https://gist.github.com/LEMettler/3f976f8d30c0aaafde074d8004e31cc6)<br>
-    Generative Dunes from a bird-eye view. 
+    Generative Dunes from a bird-eye view in py5, processing for python.
 
+- [**Ice and Time**](https://gist.github.com/LEMettler/1f92ed571c85c81296a31ef80d330745)</br>
+    Generative, abstract icewalls and icebergs in py5, processing for python.
 
 
 </details>
@@ -145,7 +147,7 @@ A GUI application to check whether particle interactions of leptons, bosons and 
 - [**Stick-Slip Friction Model**](https://github.com/LEMettler/stick-slip-model)<br>
 Simulation of the friction behaviour of two objects moving over one another.
 
-- [**Deser Dune CA**](https://github.com/LEMettler/sand-dunes)<br>
+- [**Desert Dune CA**](https://github.com/LEMettler/sand-dunes)<br>
 Cellular Automate of sand dunes based on Werner Model (1995) and following publications with 2D and 3D visualization.
 
 </details>
