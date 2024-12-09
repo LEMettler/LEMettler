@@ -24,7 +24,7 @@
 
 
 <br>
-Besides that, I enjoy all things photography and also recently took an interest in Generative Art.
+Besides that, I enjoy all things photography and also recently took an interest in Algorithmic Art.
 
 
 </div>
@@ -70,23 +70,7 @@ Click here for my [portfolio](https://github.com/LEMettler/photography).
 </div>
 
 
-<a href="https://github.com/LEMettler/strange-attractors">
-
-<!-- images with relative width -->
-<p align="center">
- <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/20-color.png" width="24%"/>
- <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/72-bw.png" width="48%"/>
- <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/37-color.png" width="24%"/>
-</p>
-
-
-</a>
-
-
-
 <div style="width: 50%;">
-
-
 
 <details>
 <summary>
@@ -101,22 +85,18 @@ Click here for my [portfolio](https://github.com/LEMettler/photography).
   
 - [**Strange Attractors**](https://github.com/LEMettler/strange-attractors)<br>
     Random strange attractors from 2 dimensional system of equations. Visualization is handeled with Python and processing while the datapoints are calculated in C++.
-    Users may vary the system of equation, all these examples are calculated with:   
-
-$$
-x_{n+1} = a_0 + a_1\cdot x_n + a_2 \cdot x_n^2 + a_3\cdot x_n y_n + a_4\cdot  y_n + a_5\cdot y_n^2 
-$$
-
-$$
-y_{n+1} = b_0 + b_1\cdot  x_n + b_2 \cdot x_n^2 + b_3 \cdot x_n y_n + b_4 \cdot y_n + b_5 \cdot y_n^2 
-$$
 
 - [**Dotted Desert Dunes**](https://gist.github.com/LEMettler/3f976f8d30c0aaafde074d8004e31cc6)<br>
-    Generative Dunes from a bird-eye view in py5, processing for python.
+    Generative Dunes from a bird-eye view in py5, processing for python. The code is presented in form of a notebook, explaining the process, the idea and execution!
 
 - [**Ice and Time**](https://gist.github.com/LEMettler/1f92ed571c85c81296a31ef80d330745)</br>
     Generative, abstract icewalls and icebergs in py5, processing for python.
 
+- [**Sienna and Jade**](https://gist.github.com/LEMettler/9845b8776cfea9f94b783f2b1effde55)</br>
+    Generative, dotted scenes of sandstone mountains.
+
+  
+  
 
 </details>
 
@@ -230,6 +210,22 @@ A school project of an Android task manager. Users are rewarded for completing t
 
 </div>
 
+
+
+
+<!-- horizonal line -->
+<div align="center" style="width: 100%;">
+    <img src="./src/line.svg" style="width: 90%;">
+</div>
+
+<a href="https://github.com/LEMettler/strange-attractors">
+<!-- images with relative width -->
+<p align="center">
+ <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/20-color.png" width="24%"/>
+ <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/72-bw.png" width="48%"/>
+ <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/37-color.png" width="24%"/>
+</p>
+</a>
 
 <!-- horizonal line -->
 <div align="center" style="width: 100%;">
