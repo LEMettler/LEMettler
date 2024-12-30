@@ -10,7 +10,6 @@
 
 
 <br>
-<br>
 <p style="margin-bottom:3cm;">
     I'm Lukas Mettler, a Physics M.Sc. student at Karlsruhe Institute of Technology, KIT.
 </p>
