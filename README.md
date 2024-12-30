@@ -29,35 +29,10 @@ Besides that, I enjoy all things photography and also recently took an interest 
 
 </div>
 
-<!-- horizonal line -->
 
 <br>
-<div align="center" style="width: 100%;">
-    
-![dm-photography](./src/dm/photography_dm.svg#gh-dark-mode-only)
-![dm-photography](./src/lm/photography_lm.svg#gh-light-mode-only)
-
-</div>
-
-
-
-
-Click here for my [portfolio](https://github.com/LEMettler/photography).
-
-
-<a href="https://github.com/LEMettler/photography">
-
-<!-- images with relative width -->
-<p align="center">
- <img src="https://github.com/LEMettler/photography/blob/main/src/bw/_MG_7000.jpg" width="19%"/>
- <img src="https://github.com/LEMettler/photography/blob/main/src/redsblues/_MG_6620.jpg" width="19%"/>
- <img src="https://github.com/LEMettler/photography/blob/main/src/misc/_MG_6057.jpg" width="19%"/>
- <img src="https://github.com/LEMettler/photography/blob/main/src/redsblues/_MG_5621.jpg" width="19%"/>
- <img src="https://github.com/LEMettler/photography/blob/main/src/misc/_MG_6948.jpg" width="19%"/>
-</p>
-
-
-</a>
+<br>
+<br>
 
 <!-- horizonal line -->
 
@@ -71,35 +46,6 @@ Click here for my [portfolio](https://github.com/LEMettler/photography).
 
 
 <div style="width: 50%;">
-
-<details>
-<summary>
-
-#### Computer Art
-
-</summary>
-
-
-- [**SVG-Collisions**](https://github.com/LEMettler/svg-collision)<br>
-  A python CLI program to generate animations of particle collisions, among others, like the one in my header that loops back into itself.
-  
-- [**Strange Attractors**](https://github.com/LEMettler/strange-attractors)<br>
-    Random strange attractors from 2 dimensional system of equations. Visualization is handeled with Python and processing while the datapoints are calculated in C++.
-
-- [**Dotted Desert Dunes**](https://gist.github.com/LEMettler/3f976f8d30c0aaafde074d8004e31cc6)<br>
-    Generative Dunes from a bird-eye view in py5, processing for python. The code is presented in form of a notebook, explaining the process, the idea and execution!
-
-- [**Ice and Time**](https://gist.github.com/LEMettler/1f92ed571c85c81296a31ef80d330745)</br>
-    Generative, abstract icewalls and icebergs in py5, processing for python.
-
-- [**Sienna and Jade**](https://gist.github.com/LEMettler/9845b8776cfea9f94b783f2b1effde55)</br>
-    Generative, dotted scenes of sandstone mountains.
-
-  
-  
-
-</details>
-
 
     
 
@@ -127,11 +73,13 @@ A GUI application to check whether particle interactions of leptons, bosons and 
 - [**Stick-Slip Friction Model**](https://github.com/LEMettler/stick-slip-model)<br>
 Simulation of the friction behaviour of two objects moving over one another.
 
+- [**SVG-Collisions**](https://github.com/LEMettler/svg-collision)<br>
+  A python CLI program to generate animations of particle collisions, among others, like the one in my header that loops back into itself.  
+
 - [**Desert Dune CA**](https://github.com/LEMettler/sand-dunes)<br>
 Cellular Automate of sand dunes based on Werner Model (1995) and following publications with 2D and 3D visualization.
 
 </details>
-
 
 
 <details>
@@ -214,16 +162,44 @@ A school project of an Android task manager. Users are rewarded for completing t
 
 
 <!-- horizonal line -->
+
+<br>
+<br>
+<br>
+
 <div align="center" style="width: 100%;">
-    <img src="./src/line.svg" style="width: 90%;">
+    
+![dm-photography](./src/dm/photography_dm.svg#gh-dark-mode-only)
+![dm-photography](./src/lm/photography_lm.svg#gh-light-mode-only)
+
+
+[Click here for more of my photography](https://github.com/LEMettler/photography/blob/main/readme.md) and [here for an overview of my generative art projects](https://github.com/LEMettler/algo-art/blob/main/README.md).
+
 </div>
+
+<a href="https://github.com/LEMettler/photography">
+
+<!-- images with relative width -->
+<p align="center">
+ <img src="https://github.com/LEMettler/photography/blob/main/src/bw/_MG_7000.jpg" width="19%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/redsblues/_MG_6620.jpg" width="19%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/misc/_MG_6057.jpg" width="19%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/redsblues/_MG_5621.jpg" width="19%"/>
+ <img src="https://github.com/LEMettler/photography/blob/main/src/misc/_MG_6948.jpg" width="19%"/>
+</p>
+
+
+</a>
+
+
 
 <a href="https://github.com/LEMettler/strange-attractors">
 <!-- images with relative width -->
 <p align="center">
- <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/20-color.png" width="24%"/>
- <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/72-bw.png" width="48%"/>
- <img src="https://github.com/LEMettler/strange-attractors/blob/main/data/morecolor/py5_plots/37-color.png" width="24%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-1.jpg" width="24%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-2.jpg" width="24%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj1.jpg" width="24%"/>
+ <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj2.jpg" width="24%"/>
 </p>
 </a>
 
@@ -234,7 +210,7 @@ A school project of an Android task manager. Users are rewarded for completing t
 
 
 
-<!-- badges -->
+<!-- badges 
 <table border="0" align="center">
  <tr>
      <td>
@@ -249,3 +225,5 @@ A school project of an Android task manager. Users are rewarded for completing t
     </td>
  </tr>
 </table>
+
+-->
