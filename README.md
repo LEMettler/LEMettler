@@ -176,7 +176,7 @@ A school project of an Android task manager. Users are rewarded for completing t
 
 </div>
 
-<a href="https://github.com/LEMettler/photography">
+<a href="https://github.com/LEMettler/photography/blob/main/readme.md">
 
 <!-- images with relative width -->
 <p align="center">
@@ -192,7 +192,7 @@ A school project of an Android task manager. Users are rewarded for completing t
 
 
 
-<a href="https://github.com/LEMettler/strange-attractors">
+<a href="https://github.com/LEMettler/algo-art/blob/main/README.md">
 <!-- images with relative width -->
 <p align="center">
  <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-1.jpg" width="24%"/>
