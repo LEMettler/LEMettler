@@ -60,11 +60,18 @@ Besides that, I enjoy all things photography and also recently took an interest 
 - [**lumiere**](https://github.com/LEMettler/lumiere)<br>
 My python wrapper of scipy, numpy and matplotlib operations to streamline scientific data handling, fitting and  mathematically correct errorbands in personal everyday use.
 
+
+- [**FPGA**](https://github.com/LEMettler/fpga)<br>
+  VHDL programs created for the KIT: Electronics for Physicists module.
+
+
+- [**SVG-Collisions**](https://github.com/LEMettler/svg-collision)<br>
+  A python CLI program to generate animations of particle collisions, among others, like the one in my header that loops back into itself.  
+
+
+
 - [**QFT-calculations**](https://github.com/LEMettler/QFT-calculations)<br>
 Miscellaneous Quantum Field Theory calculations and notes.
-
-- [**particleQT**](https://github.com/LEMettler/particleQT)<br>
-A GUI application to check whether particle interactions of leptons, bosons and many hadrons satisfy the conservation of quantum numbers.
 
 - [**Forest Fire Model**](https://github.com/LEMettler/forest-fire-model)<br>
  Animated python simulation of a cellular grid to simulate the spread of forest fires.
@@ -72,8 +79,6 @@ A GUI application to check whether particle interactions of leptons, bosons and 
 - [**Stick-Slip Friction Model**](https://github.com/LEMettler/stick-slip-model)<br>
 Simulation of the friction behaviour of two objects moving over one another.
 
-- [**SVG-Collisions**](https://github.com/LEMettler/svg-collision)<br>
-  A python CLI program to generate animations of particle collisions, among others, like the one in my header that loops back into itself.  
 
 - [**Desert Dune CA**](https://github.com/LEMettler/sand-dunes)<br>
 Cellular Automate of sand dunes based on Werner Model (1995) and following publications with 2D and 3D visualization.
@@ -114,8 +119,10 @@ Tests of implementing a LSTM on song lyrics using the Pytorch library. Ultimatel
 A 9x9-Sudoku solving algorithm that, unlike other implemtations, works in an iterative manner.
 Implementations in python and C++.
 
-</details>
+- [**Strange-Attractors**](https://github.com/LEMettler/strange-attractors)<br>
+Random strange attractors from 2 dimensional system of equations. Visualization is handeled with Python while the datapoints are calculated in C++.
 
+</details>
 
 <details>
 <summary>
