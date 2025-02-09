@@ -27,7 +27,7 @@
 
   <text x="50%" y="60%" font-family="monospace" 
   font-size="24" text-anchor="middle" fill="url(#gradient)">
-    Photography
+    Photography and Algo Art
   </text>
   
   <line x1="0%" y1="78%" x2="45%" y2="78.00001%"  stroke="url(#gradient)" stroke-width="2" />
