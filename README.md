@@ -11,20 +11,17 @@
 
 <br>
 <p style="margin-bottom:3cm;">
-    I'm Lukas Mettler, a Physics M.Sc. student at Karlsruhe Institute of Technology, KIT.
+    Hi! I'm a Physics M.Sc. student at Karlsruhe Institute of Technology, KIT.
 </p>
 
 <p style="margin-bottom:3cm;">
     My interests include <br>
     Dark Matter, cosmology, particle and astroparticle physics, data analysis, statistics and Monte Carlo simulation.
+
+
+Besides that, I enjoy all things [photography](https://github.com/LEMettler/photography/blob/main/readme.md) and also recently took an interest in [Algorithmic Art](https://github.com/LEMettler/algo-art/blob/main/README.md).
+
 </p>
-
-
-
-
-<br>
-Besides that, I enjoy all things photography and also recently took an interest in Algorithmic Art.
-
 
 </div>
 
@@ -37,24 +34,56 @@ Besides that, I enjoy all things photography and also recently took an interest 
 
 <br>
 <div align="center" style="width: 100%;">
-    
+
 ![dm-code](./src/dm/code_and_physics_dm.svg#gh-dark-mode-only)
 ![dm-code](./src/lm/code_and_physics_lm.svg#gh-light-mode-only)
 
 </div>
 
 
-<div style="width: 50%;">
-
-    
-
-<details>
-<summary>
-
-#### Physics and simulations
-
-
-</summary>
+<table>
+<tbody align="center">
+<tr>
+    <td>
+        <img align="center" width="40%" src="https://raw.githubusercontent.com/LEMettler/sand-dunes/main/out/example.jpg">
+        <h2><a href="https://github.com/LEMettler/sand-dunes">Desert Dune CA</a></h2>
+        <p>Cellular Automate of sand dunes based on Werner Model (1995) and following publications with 2D and 3D visualization.</p>
+    </td>
+    <td>
+        <img align="center" width="60%" src="https://github.com/LEMettler/forest-fire-model/blob/main/examples/drought_model.gif">
+        <h2><a href="https://github.com/LEMettler/forest-fire-model">Forest Fire Model</a></h2>
+        <p>Animated python simulation of a cellular grid to simulate the spread of forest fires.
+        </p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img align="center" width="40%" src="https://github.com/LEMettler/strange-attractors/raw/main/data/multicolor/py5_plots/18-bw.png">
+        <h2><a href="https://github.com/LEMettler/strange-attractors">Strange Attractors</a></h2>
+        <p>Random strange attractors from 2 dimensional system of equations. Calculated in C++, visualized in python.</p>
+    </td>
+    <td>
+        <img align="center" width="40%" src="https://github.com/LEMettler/sudoku_solver/blob/main/img/preview_a.png?raw=true">
+        <h2><a href="https://github.com/LEMettler/sudoku_solver">Sudoku Solver</a></h2>
+        <p>A 9x9-Sudoku solving algorithm that, unlike other implemtations, works in an iterative manner.</p>
+    </td>
+</tr>
+<tr>
+    <td>
+        <img align="center" width="40%" src="https://github.com/LEMettler/svg-collision/raw/main/animations/cl_input.jpg">
+        <h2><a href="https://github.com/LEMettler/svg-collision">SVG Collision</a></h2>
+        <p>A python CLI program to generate animations of particle collisions, among others, like the one in my header that loops back into itself.  
+        </p>
+    </td>
+    <td>
+        <img align="center" width="40%" src="https://github.com/LEMettler/higgs-challenge/raw/main/documentation/img/fullmodel.png">
+        <h2><a href="https://github.com/LEMettler/higgs-challenge">Higgs Challenge</a></h2>
+        <p>My take on the Kaggle Higgs-Boson Machine Learning Challenge with a DNN setup for a 2.6 AMS score aswell as a custom Gaussian Mixture Classifier approach.
+        </p>
+    </td>
+</tr>
+</tbody>
+</table>
 
 
 - [**lumiere**](https://github.com/LEMettler/lumiere)<br>
@@ -65,104 +94,17 @@ My python wrapper of scipy, numpy and matplotlib operations to streamline scient
   VHDL programs created for the KIT: Electronics for Physicists module.
 
 
-- [**SVG-Collisions**](https://github.com/LEMettler/svg-collision)<br>
-  A python CLI program to generate animations of particle collisions, among others, like the one in my header that loops back into itself.  
-
-
-
 - [**QFT-calculations**](https://github.com/LEMettler/QFT-calculations)<br>
 Miscellaneous Quantum Field Theory calculations and notes.
-
-- [**Forest Fire Model**](https://github.com/LEMettler/forest-fire-model)<br>
- Animated python simulation of a cellular grid to simulate the spread of forest fires.
 
 - [**Stick-Slip Friction Model**](https://github.com/LEMettler/stick-slip-model)<br>
 Simulation of the friction behaviour of two objects moving over one another.
 
-
-- [**Desert Dune CA**](https://github.com/LEMettler/sand-dunes)<br>
-Cellular Automate of sand dunes based on Werner Model (1995) and following publications with 2D and 3D visualization.
-
-</details>
-
-
-<details>
-
-<summary>
-
-#### Machine Learning 
-
-</summary>
-
 - [**Numpy DNN**](https://github.com/LEMettler/MNIST_in_numpy)<br>
 A neural network build from scratch, not relying on frameworks like TensorFlow. All matrix calculations, including backpropagation steps, are explained to gain a deep understanding of the underlying processes.
 
-- [**Higgs Challenge**](https://github.com/LEMettler/higgs-challenge)<br>
-My take on the Kaggle Higgs-Boson Machine Learning Challenge with a DNN setup for a 2.6 AMS score aswell as a custom Gaussian Mixture Classifier approach.
-
-- [**NLP lyrics generator**](https://github.com/LEMettler/NLP_lyrics_generator/blob/main/eurobeatNLP.ipynb)<br>
-Tests of implementing a LSTM on song lyrics using the Pytorch library. Ultimately limited by the my laptops computing power.
-
-
-</details>
-
-
-<details>
-<summary>
-
-#### C++
-
-</summary>
-
-
-- [**Sudoku Solver**](https://github.com/LEMettler/sudoku_solver)<br>
-A 9x9-Sudoku solving algorithm that, unlike other implemtations, works in an iterative manner.
-Implementations in python and C++.
-
-- [**Strange-Attractors**](https://github.com/LEMettler/strange-attractors)<br>
-Random strange attractors from 2 dimensional system of equations. Visualization is handeled with Python while the datapoints are calculated in C++.
-
-</details>
-
-<details>
-<summary>
-
-#### $\LaTeX$
-
-</summary>
-
 - [**LaTeX template**](https://github.com/LEMettler/latex-template)<br>
 My go-to $\LaTeX$ template. Pretty frontpage and useful commands included.
-
-- [**LaTeX table generator**](https://github.com/LEMettler/latex_table_generation)<br>
-A simple python module to convert your data arrays/lists to code for a $\LaTeX$ table.
-
-
-</details>
-
-<details>
-<summary>
-    
-#### Android applications (Java and Kotlin)
-</summary>
-
-- [**Sleep Timer**](https://github.com/LEMettler/SleepTimer)<br>
-A timer that stops applications from playing music.
-
-- [**Circle Builder**](https://github.com/LEMettler/CircleBuilder)<br>
-A game to define obstacles and find paths around them to connect all free spaces.
-
-- [**Action Counter**](https://github.com/LEMettler/ActionCounter)<br>
-A simplistic interface for counting with plus/minus buttons.
-
-- [**Entity Task**](https://github.com/LEMettler/EntityTask)<br>
-A school project of an Android task manager. Users are rewarded for completing tasks with a XP system. 
-
-
-</details>
-
-
-</div>
 
 
 
@@ -179,7 +121,7 @@ A school project of an Android task manager. Users are rewarded for completing t
 ![dm-photography](./src/lm/photography_lm.svg#gh-light-mode-only)
 
 
-[Click here for more of my photography](https://github.com/LEMettler/photography/blob/main/readme.md) and [here for an overview of my generative art projects](https://github.com/LEMettler/algo-art/blob/main/README.md).
+[Click here for more of my photography...](https://github.com/LEMettler/photography/blob/main/readme.md) 
 
 </div>
 
@@ -193,11 +135,13 @@ A school project of an Android task manager. Users are rewarded for completing t
  <img src="https://github.com/LEMettler/photography/blob/main/src/redsblues/_MG_5621.jpg" width="19%"/>
  <img src="https://github.com/LEMettler/photography/blob/main/src/misc/_MG_6948.jpg" width="19%"/>
 </p>
-
-
 </a>
 
+<div align="center" style="width: 100%;">
+    
+[... and here for an overview of my generative art projects.](https://github.com/LEMettler/algo-art/blob/main/README.md)
 
+</div>
 
 <a href="https://github.com/LEMettler/algo-art/blob/main/README.md">
 <!-- images with relative width -->
@@ -209,11 +153,12 @@ A school project of an Android task manager. Users are rewarded for completing t
 </p>
 </a>
 
-<!-- horizonal line -->
+
+<!-- horizonal line 
 <div align="center" style="width: 100%;">
     <img src="./src/line.svg" style="width: 90%;">
 </div>
-
+-->
 
 
 <!-- badges 
