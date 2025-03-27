@@ -47,12 +47,12 @@ Besides that, I enjoy all things [photography](https://github.com/LEMettler/phot
     <td>
         <img align="center" width="40%" src="https://raw.githubusercontent.com/LEMettler/sand-dunes/main/out/example.jpg">
         <h2><a href="https://github.com/LEMettler/sand-dunes">Desert Dune CA</a></h2>
-        <p>Cellular Automate of sand dunes based on Werner Model (1995) and following publications with 2D and 3D visualization.</p>
+        <p>Cellular Automata of sand dunes based on Werner Model (1995) and following publications with 2D and 3D visualization.</p>
     </td>
     <td>
         <img align="center" width="60%" src="https://github.com/LEMettler/forest-fire-model/blob/main/examples/drought_model.gif">
         <h2><a href="https://github.com/LEMettler/forest-fire-model">Forest Fire Model</a></h2>
-        <p>Animated python simulation of a cellular grid to simulate the spread of forest fires.
+        <p>Animated of a cellular grid to simulate the spread of forest fires.
         </p>
     </td>
 </tr>
@@ -150,6 +150,12 @@ My go-to $\LaTeX$ template. Pretty frontpage and useful commands included.
  <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-2.jpg" width="24%"/>
  <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj1.jpg" width="24%"/>
  <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj2.jpg" width="24%"/>
+</p>
+
+<p align="center">
+ <img src="https://github.com/LEMettler/algo-art/raw/main/src/biat_646.jpg" width="48%"/>
+ <img src="https://github.com/LEMettler/algo-art/raw/main/src/biat_006.jpg" width="48%"/>
+ 
 </p>
 </a>
 
