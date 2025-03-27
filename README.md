@@ -129,11 +129,11 @@ My go-to $\LaTeX$ template. Pretty frontpage and useful commands included.
 
 <!-- images with relative width -->
 <p align="center">
- <img src="https://github.com/LEMettler/photography/blob/main/src/bw/_MG_7000.jpg" width="19%"/>
- <img src="https://github.com/LEMettler/photography/blob/main/src/redsblues/_MG_6620.jpg" width="19%"/>
- <img src="https://github.com/LEMettler/photography/blob/main/src/misc/_MG_6057.jpg" width="19%"/>
- <img src="https://github.com/LEMettler/photography/blob/main/src/redsblues/_MG_5621.jpg" width="19%"/>
- <img src="https://github.com/LEMettler/photography/blob/main/src/misc/_MG_6948.jpg" width="19%"/>
+ <img src="https://github.com/LEMettler/photography/raw/main/src/greens/greenhouse/_MG_7939.jpg" width="48%"/>
+ <img src="https://github.com/LEMettler/photography/raw/main/src/greens/greenhouse/_MG_7933.jpg" width="48%"/>
+ <img src="https://github.com/LEMettler/photography/raw/main/src/greens/greenhouse/_MG_7911.jpg" width="48%"/>
+ <img src="https://github.com/LEMettler/photography/raw/main/src/greens/greenhouse/_MG_7924.jpg" width="48%"/>
+ 
 </p>
 </a>
 
