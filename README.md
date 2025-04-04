@@ -45,41 +45,51 @@ Besides that, I enjoy all things [photography](https://github.com/LEMettler/phot
 <tbody align="center">
 <tr>
     <td>
-        <img align="center" width="40%" src="https://raw.githubusercontent.com/LEMettler/sand-dunes/main/out/example.jpg">
-        <h2><a href="https://github.com/LEMettler/sand-dunes">Desert Dune CA</a></h2>
-        <p>Cellular Automata of sand dunes based on Werner Model (1995) and following publications with 2D and 3D visualization.</p>
+        <a href="https://github.com/LEMettler/sand-dunes">
+            <img align="center" width="40%" src="https://raw.githubusercontent.com/LEMettler/sand-dunes/main/out/example.jpg">
+            <h2><a href="https://github.com/LEMettler/sand-dunes">Desert Dune CA</a></h2>
+            <p>Cellular Automata of sand dunes based on Werner Model (1995) and following publications with 2D and 3D visualization.</p>
+        </a>
     </td>
     <td>
-        <img align="center" width="60%" src="https://github.com/LEMettler/forest-fire-model/blob/main/examples/drought_model.gif">
-        <h2><a href="https://github.com/LEMettler/forest-fire-model">Forest Fire Model</a></h2>
-        <p>Animated of a cellular grid to simulate the spread of forest fires.
+        <a href="https://github.com/LEMettler/forest-fire-model">
+            <img align="center" width="60%" src="https://github.com/LEMettler/forest-fire-model/blob/main/examples/drought_model.gif">
+            <h2><a href="https://github.com/LEMettler/forest-fire-model">Forest Fire Model</a></h2>
+            <p>Animated of a cellular grid to simulate the spread of forest fires.
+        </a>
         </p>
     </td>
 </tr>
 <tr>
     <td>
-        <img align="center" width="40%" src="https://github.com/LEMettler/strange-attractors/raw/main/data/multicolor/py5_plots/18-bw.png">
-        <h2><a href="https://github.com/LEMettler/strange-attractors">Strange Attractors</a></h2>
-        <p>Random strange attractors from 2 dimensional system of equations. Calculated in C++, visualized in python.</p>
+        <a href="https://github.com/LEMettler/strange-attractors">
+            <img align="center" width="40%" src="https://github.com/LEMettler/strange-attractors/raw/main/data/multicolor/py5_plots/18-bw.png">
+            <h2><a href="https://github.com/LEMettler/strange-attractors">Strange Attractors</a></h2>
+            <p>Random strange attractors from 2 dimensional system of equations. Calculated in C++, visualized in python.</p>
+        </a>
     </td>
     <td>
-        <img align="center" width="40%" src="https://github.com/LEMettler/sudoku_solver/blob/main/img/preview_a.png?raw=true">
-        <h2><a href="https://github.com/LEMettler/sudoku_solver">Sudoku Solver</a></h2>
-        <p>A 9x9-Sudoku solving algorithm that, unlike other implemtations, works in an iterative manner.</p>
+        <a href="https://github.com/LEMettler/sudoku_solver">
+            <img align="center" width="40%" src="https://github.com/LEMettler/sudoku_solver/blob/main/img/preview_a.png?raw=true">
+            <h2><a href="https://github.com/LEMettler/sudoku_solver">Sudoku Solver</a></h2>
+            <p>A 9x9-Sudoku solving algorithm that, unlike other implemtations, works in an iterative manner.</p>
+        </a>
     </td>
 </tr>
 <tr>
     <td>
-        <img align="center" width="40%" src="https://github.com/LEMettler/svg-collision/raw/main/animations/cl_input.jpg">
-        <h2><a href="https://github.com/LEMettler/svg-collision">SVG Collision</a></h2>
-        <p>A python CLI program to generate animations of particle collisions, among others, like the one in my header that loops back into itself.  
-        </p>
+        <a href="https://github.com/LEMettler/svg-collision">
+            <img align="center" width="40%" src="https://github.com/LEMettler/svg-collision/raw/main/animations/cl_input.jpg">
+            <h2><a href="https://github.com/LEMettler/svg-collision">SVG Collision</a></h2>
+            <p>A python CLI program to generate animations of particle collisions, among others, like the one in my header that loops back into itself. </p> 
+        </a>
     </td>
     <td>
-        <img align="center" width="40%" src="https://github.com/LEMettler/higgs-challenge/raw/main/documentation/img/fullmodel.png">
-        <h2><a href="https://github.com/LEMettler/higgs-challenge">Higgs Challenge</a></h2>
-        <p>My take on the Kaggle Higgs-Boson Machine Learning Challenge with a DNN setup for a 2.6 AMS score aswell as a custom Gaussian Mixture Classifier approach.
-        </p>
+        <a href="https://github.com/LEMettler/higgs-challenge">
+            <img align="center" width="40%" src="https://github.com/LEMettler/higgs-challenge/raw/main/documentation/img/fullmodel.png">
+            <h2><a href="https://github.com/LEMettler/higgs-challenge">Higgs Challenge</a></h2>
+            <p>My take on the Kaggle Higgs-Boson Machine Learning Challenge with a DNN setup for a 2.6 AMS score aswell as a custom Gaussian Mixture Classifier approach.</p>
+        </a>
     </td>
 </tr>
 </tbody>
@@ -159,28 +169,3 @@ My go-to $\LaTeX$ template. Pretty frontpage and useful commands included.
 </p>
 </a>
 
-
-<!-- horizonal line 
-<div align="center" style="width: 100%;">
-    <img src="./src/line.svg" style="width: 90%;">
-</div>
--->
-
-
-<!-- badges 
-<table border="0" align="center">
- <tr>
-     <td>
-<img src="https://img.shields.io/badge/Wolfram-DD1100?&style=for-the-badge&logo=Wolfram&logoColor=white" alt="wolfram">
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="python">
-<img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="mint">
-<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" alt="latex">
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="c++">
-<img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas">
-<img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy">
-<img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" alt="scipy">
-    </td>
- </tr>
-</table>
-
--->
