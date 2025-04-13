@@ -116,7 +116,8 @@ A neural network build from scratch, not relying on frameworks like TensorFlow. 
 - [**LaTeX template**](https://github.com/LEMettler/latex-template)<br>
 My go-to $\LaTeX$ template. Pretty frontpage and useful commands included.
 
-
+- [**OpenSimplex Noise with analytical derivatives**](https://gist.github.com/LEMettler/a3ffd75a401c1245a1a869dc235a1209)<br>
+  A fork that adds analytical derivatives to the calculation of OpenSimplex Noise. This can greatly improve the speed of p5js projects that heavily rely on derivatives, compared numerical alternatives.
 
 
 <!-- horizonal line -->
