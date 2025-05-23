@@ -54,7 +54,7 @@ Besides that, I enjoy all things [photography](https://github.com/LEMettler/phot
     <td>
         <a href="https://gist.github.com/LEMettler/a3ffd75a401c1245a1a869dc235a1209">
             <img align="center" width="40%" src="https://raw.githubusercontent.com/LEMettler/LEMettler/refs/heads/main/src/img/2D-gradient-field.png">
-            <h2><a href="https://github.com/LEMettler/forest-fire-model">OSNoise with analytical derivatives</a></h2>
+            <h2><a href="https://gist.github.com/LEMettler/a3ffd75a401c1245a1a869dc235a1209">OSNoise with analytical derivatives</a></h2>
             <p>An OpenSimplex Noise fork that adds analytically calculated gradients in 2D, 3D and 4D.
         </a>
         </p>
