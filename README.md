@@ -44,18 +44,18 @@ Besides that, I enjoy all things [photography](https://github.com/LEMettler/phot
 <table>
 <tbody align="center">
 <tr>
-    <td>
+<td>
         <a href="https://github.com/LEMettler/sand-dunes">
             <img align="center" width="40%" src="https://raw.githubusercontent.com/LEMettler/sand-dunes/main/out/example.jpg">
             <h2><a href="https://github.com/LEMettler/sand-dunes">Desert Dune CA</a></h2>
-            <p>Cellular Automata of sand dunes based on Werner Model (1995) and following publications with 2D and 3D visualization.</p>
+            <p>Different Cellular Automata modelling the development of sand dunes based on Werners Model (1995) and following publications with 2D and 3D visualization.</p>
         </a>
     </td>
     <td>
-        <a href="https://github.com/LEMettler/forest-fire-model">
-            <img align="center" width="60%" src="https://github.com/LEMettler/forest-fire-model/blob/main/examples/drought_model.gif">
-            <h2><a href="https://github.com/LEMettler/forest-fire-model">Forest Fire Model</a></h2>
-            <p>Animated of a cellular grid to simulate the spread of forest fires.
+        <a href="https://gist.github.com/LEMettler/a3ffd75a401c1245a1a869dc235a1209">
+            <img align="center" width="40%" src="https://raw.githubusercontent.com/LEMettler/LEMettler/refs/heads/main/src/img/2D-gradient-field.png">
+            <h2><a href="https://github.com/LEMettler/forest-fire-model">OSNoise with analytical derivatives</a></h2>
+            <p>An OpenSimplex Noise fork that adds analytically calculated gradients in 2D, 3D and 4D.
         </a>
         </p>
     </td>
@@ -66,22 +66,6 @@ Besides that, I enjoy all things [photography](https://github.com/LEMettler/phot
             <img align="center" width="40%" src="https://github.com/LEMettler/strange-attractors/raw/main/data/multicolor/py5_plots/18-bw.png">
             <h2><a href="https://github.com/LEMettler/strange-attractors">Strange Attractors</a></h2>
             <p>Random strange attractors from 2 dimensional system of equations. Calculated in C++, visualized in python.</p>
-        </a>
-    </td>
-    <td>
-        <a href="https://github.com/LEMettler/sudoku_solver">
-            <img align="center" width="40%" src="https://github.com/LEMettler/sudoku_solver/blob/main/img/preview_a.png?raw=true">
-            <h2><a href="https://github.com/LEMettler/sudoku_solver">Sudoku Solver</a></h2>
-            <p>A 9x9-Sudoku solving algorithm that, unlike other implemtations, works in an iterative manner.</p>
-        </a>
-    </td>
-</tr>
-<tr>
-    <td>
-        <a href="https://github.com/LEMettler/svg-collision">
-            <img align="center" width="40%" src="https://github.com/LEMettler/svg-collision/raw/main/animations/cl_input.jpg">
-            <h2><a href="https://github.com/LEMettler/svg-collision">SVG Collision</a></h2>
-            <p>A python CLI program to generate animations of particle collisions, among others, like the one in my header that loops back into itself. </p> 
         </a>
     </td>
     <td>
@@ -96,28 +80,31 @@ Besides that, I enjoy all things [photography](https://github.com/LEMettler/phot
 </table>
 
 
+- [**LaTeX template**](https://github.com/LEMettler/latex-template)<br>
+My go-to $\LaTeX$ template. Pretty frontpage and useful commands included.
+
+
 - [**lumiere**](https://github.com/LEMettler/lumiere)<br>
 My python wrapper of scipy, numpy and matplotlib operations to streamline scientific data handling, fitting and  mathematically correct errorbands in personal everyday use.
 
-
-- [**FPGA**](https://github.com/LEMettler/fpga)<br>
-  VHDL programs created for the KIT: Electronics for Physicists module.
-
-
-- [**QFT-calculations**](https://github.com/LEMettler/QFT-calculations)<br>
-Miscellaneous Quantum Field Theory calculations and notes.
-
-- [**Stick-Slip Friction Model**](https://github.com/LEMettler/stick-slip-model)<br>
-Simulation of the friction behaviour of two objects moving over one another.
+- [**SVG-Collisions**](https://github.com/LEMettler/svg-collision)<br>
+A python CLI program to generate animations of particle collisions, among others, like the one in my header that loops back into itself.
 
 - [**Numpy DNN**](https://github.com/LEMettler/MNIST_in_numpy)<br>
 A neural network build from scratch, not relying on frameworks like TensorFlow. All matrix calculations, including backpropagation steps, are explained to gain a deep understanding of the underlying processes.
 
-- [**LaTeX template**](https://github.com/LEMettler/latex-template)<br>
-My go-to $\LaTeX$ template. Pretty frontpage and useful commands included.
+- [**Sudoku-Solver**](https://github.com/LEMettler/sudoku_solver)<br>
+A 9x9-Sudoku solving algorithm that, unlike other implemtations, works in an iterative manner.
 
-- [**OpenSimplex Noise with analytical derivatives**](https://gist.github.com/LEMettler/a3ffd75a401c1245a1a869dc235a1209)<br>
-  A fork that adds analytical derivatives to the calculation of OpenSimplex Noise. This can greatly improve the speed of p5js projects that heavily rely on derivatives, compared numerical alternatives.
+- [**FPGA**](https://github.com/LEMettler/fpga)<br>
+  VHDL programs created for the KIT: Electronics for Physicists module.
+
+- [**Forest Fire Model**](https://github.com/LEMettler/forest-fire-model) and [**Stick-Slip Friction Model**](https://github.com/LEMettler/stick-slip-model)<br>
+Python simulations of different processes. 
+
+- [**QFT-calculations**](https://github.com/LEMettler/QFT-calculations)<br>
+Miscellaneous Quantum Field Theory calculations and notes.
+
 
 
 <!-- horizonal line -->
