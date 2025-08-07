@@ -19,7 +19,7 @@
     Dark Matter, cosmology, particle and astroparticle physics, data analysis, statistics and Monte Carlo simulation.
 
 
-Besides that, I enjoy all things [photography](https://github.com/LEMettler/photography/blob/main/readme.md) and also recently took an interest in [Algorithmic Art](https://github.com/LEMettler/algo-art/blob/main/README.md).
+Besides that, I enjoy all things [photography](https://lemettler.github.io/photography/) and also recently took an interest in [Algorithmic Art](https://lemettler.github.io/algo-art/).
 
 </p>
 
@@ -109,51 +109,4 @@ Miscellaneous Quantum Field Theory calculations and notes.
 
 <!-- horizonal line -->
 
-<br>
-<br>
-<br>
-
-<div align="center" style="width: 100%;">
-    
-![dm-photography](./src/dm/photography_dm.svg#gh-dark-mode-only)
-![dm-photography](./src/lm/photography_lm.svg#gh-light-mode-only)
-
-
-[Click here for more of my photography...](https://github.com/LEMettler/photography/blob/main/readme.md) 
-
-</div>
-
-<a href="https://github.com/LEMettler/photography/blob/main/readme.md">
-
-<!-- images with relative width -->
-<p align="center">
- <img src="https://github.com/LEMettler/photography/raw/main/src/greens/greenhouse/_MG_7939.jpg" width="48%"/>
- <img src="https://github.com/LEMettler/photography/raw/main/src/greens/greenhouse/_MG_7933.jpg" width="48%"/>
- <img src="https://github.com/LEMettler/photography/raw/main/src/greens/greenhouse/_MG_7911.jpg" width="48%"/>
- <img src="https://github.com/LEMettler/photography/raw/main/src/greens/greenhouse/_MG_7924.jpg" width="48%"/>
- 
-</p>
-</a>
-
-<div align="center" style="width: 100%;">
-    
-[... and here for an overview of my generative art projects.](https://github.com/LEMettler/algo-art/blob/main/README.md)
-
-</div>
-
-<a href="https://github.com/LEMettler/algo-art/blob/main/README.md">
-<!-- images with relative width -->
-<p align="center">
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-1.jpg" width="24%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/ddd-2.jpg" width="24%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj1.jpg" width="24%"/>
- <img src="https://github.com/LEMettler/algo-art/blob/main/src/sj2.jpg" width="24%"/>
-</p>
-
-<p align="center">
- <img src="https://github.com/LEMettler/algo-art/raw/main/src/biat_646.jpg" width="48%"/>
- <img src="https://github.com/LEMettler/algo-art/raw/main/src/biat_006.jpg" width="48%"/>
- 
-</p>
-</a>
 
