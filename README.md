@@ -8,26 +8,14 @@
 
 <div align="center">
 
-
-<br>
 <p style="margin-bottom:3cm;">
-    Hi! I'm a Physics M.Sc. student at Karlsruhe Institute of Technology, KIT.
-</p>
-
-<p style="margin-bottom:3cm;">
-    My interests include <br>
-    Dark Matter, cosmology, particle and astroparticle physics, data analysis, statistics and Monte Carlo simulation.
-
-
-Besides that, I enjoy all things [photography](https://lemettler.github.io/photography/) and also recently took an interest in [Algorithmic Art](https://lemettler.github.io/algo-art/).
-
+    
+ [**Photography**](https://lemettler.github.io/photography/) and [**Algorithmic Art**](https://lemettler.github.io/algo-art/).
+ 
 </p>
 
 </div>
 
-
-<br>
-<br>
 <br>
 
 <!-- horizonal line -->
@@ -39,7 +27,6 @@ Besides that, I enjoy all things [photography](https://lemettler.github.io/photo
 ![dm-code](./src/lm/code_and_physics_lm.svg#gh-light-mode-only)
 
 </div>
-
 
 <table>
 <tbody align="center">
@@ -83,27 +70,9 @@ Besides that, I enjoy all things [photography](https://lemettler.github.io/photo
 - [**LaTeX template**](https://github.com/LEMettler/latex-template)<br>
 My go-to $\LaTeX$ template. Pretty frontpage and useful commands included.
 
-
-- [**lumiere**](https://github.com/LEMettler/lumiere)<br>
-My python wrapper of scipy, numpy and matplotlib operations to streamline scientific data handling, fitting and  mathematically correct errorbands in personal everyday use.
-
-- [**SVG-Collisions**](https://github.com/LEMettler/svg-collision)<br>
-A python CLI program to generate animations of particle collisions, among others, like the one in my header that loops back into itself.
-
 - [**Numpy DNN**](https://github.com/LEMettler/MNIST_in_numpy)<br>
 A neural network build from scratch, not relying on frameworks like TensorFlow. All matrix calculations, including backpropagation steps, are explained to gain a deep understanding of the underlying processes.
 
-- [**Sudoku-Solver**](https://github.com/LEMettler/sudoku_solver)<br>
-A 9x9-Sudoku solving algorithm that, unlike other implemtations, works in an iterative manner.
-
-- [**FPGA**](https://github.com/LEMettler/fpga)<br>
-  VHDL programs created for the KIT: Electronics for Physicists module.
-
-- [**Forest Fire Model**](https://github.com/LEMettler/forest-fire-model) and [**Stick-Slip Friction Model**](https://github.com/LEMettler/stick-slip-model)<br>
-Python simulations of different processes. 
-
-- [**QFT-calculations**](https://github.com/LEMettler/QFT-calculations)<br>
-Miscellaneous Quantum Field Theory calculations and notes.
 
 
 
